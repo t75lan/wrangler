@@ -27,3 +27,8 @@
             tail             Aggregate logs from production worker
             login            Authenticate Wrangler with your Cloudflare username and password
             help             Prints this message or the help of the given subcommand(s)
+
+
+
+
+https://developers.cloudflare.com/workers/cli-wrangler
